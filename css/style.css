@@ -1,0 +1,84 @@
+/* @media screen and (min-width:769px){
+/* PC用CSS -------------- */
+
+} */
+
+.section{
+  text-align: center;
+}
+body{
+  margin-top: 40px;
+}
+.title{
+  color:#ff1493;
+  text-align: left;
+  margin-left: 60px;
+  font-family: Quicksand, 游ゴシック体, "Yu Gothic", YuGothic, "ヒラギノ角ゴシック Pro", "Hiragino Kaku Gothic Pro", メイリオ, Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+.title img{
+  float: right;
+  width: 100px;
+  height: 100px;
+}
+.potage {
+  width: 200px;
+  height: 100px;
+}
+header h2{
+  font-size: 40px;
+  text-align: center;
+}
+h2 {
+  position: relative;
+  color: white;
+  background: #81d0cb;
+  line-height: 1.4;
+  padding: 0.5em 0.5em 0.5em 1.8em;
+}
+
+h2:before {
+  font-family: "Font Awesome 5 Free";
+  content: "\f14a";
+  position: absolute;
+  left : 0.5em; /*左端からのアイコンまでの距離*/
+}
+body{
+  background-color: #fffacd;
+  text-align: center;
+}
+.one img{
+  width: 600px;
+  height: 400px;
+}
+.one p{
+  text-align: center;
+}
+.time{
+  width:auto;
+  background-color: skyblue;
+  text-align: center;
+  font-size: 23px;
+  font-weight: bold;
+}
+.section img{
+  width: 600px;
+  height: 400px;
+}
+h4{
+  font-size: 100px;
+}
+.tegami{
+  position: relative;
+}
+.tegami img{
+  opacity: 0.7;
+  border-radius: 30px;
+}
+.tegami h3{
+  position: absolute;
+  text-align: center;
+  top:60%;
+  left: 30%;
+  right: 30%;
+  background-color: white;
+}
