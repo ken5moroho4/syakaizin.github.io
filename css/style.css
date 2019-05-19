@@ -1,5 +1,3 @@
-
-
 .section{
   text-align: center;
 }
@@ -93,7 +91,7 @@ h1{
   height: auto;
 }
 .title p{
-  font-size: 10px;
+  font-size: 14px;
 }
 .title img{
   float: none;
@@ -104,11 +102,17 @@ header h2{
   text-align: center;
 }
 .section h4{
-  margin-top: 250px;
+  margin-top: 200px;
   font-size: 40px;
 }
 .section h3{
   font-size: 15px;
   width: 150px;
+}
+.section p{
+  font-size: 16px;
+}
+.tegami h3{
+  font-size: 10px;
 }
 }
